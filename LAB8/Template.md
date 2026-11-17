@@ -1,0 +1,4 @@
+MLP
+CNN
+LSTM
+Templates
