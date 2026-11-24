@@ -1,1 +1,2 @@
 - For the coursework use 50 to 100 epochs
+- patience around 15
